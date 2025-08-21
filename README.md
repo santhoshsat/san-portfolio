@@ -1,12 +1,47 @@
-# React + Vite
+# 👋 Hi, I'm Santhosh  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Passionate about **Web Development, AWS Cloud**  
+💻 Love building modern web apps & scalable cloud solutions  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🏠 Home
+Welcome to my GitHub Portfolio! Here you’ll find my **projects, skills, and certifications**.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻 About Me
+- 🌱 Learning & building in **AWS, DevOps, and React**  
+- ⚡ Skilled in **Cloud Infrastructure, CI/CD, and Full-Stack Development**  
+- 🎯 Goal: To design scalable apps & contribute to open-source  
+
+---
+
+## 🛠️ Skills
+- **Languages & Frameworks:** React, Java , C, CSS, Tailwind  
+- **Cloud & DevOps:** AWS (EKS, EC2, RDS, Redshift)  
+- **Databases:** MySQL, MongoDB  
+- **Other Tools:** GitHub, Linux, REST APIs  
+
+---
+
+## 📜 Certifications
+- ☑️ React js – *Workshop*  
+- ☑️ AWS  Engineer Training – *Learn Quick Academy*    
+- ☑️ java  – *intership*  
+
+---
+
+## 📂 Projects
+- 🔹 **[Portfolio Website](#)** → Built with React + Tailwind, modern UI animations  
+- 🔹 **[Blog Platform](#)** → React  blog with scheduling & FAQs  
+
+---
+
+## 📬 Contact
+📧 **Email:** [santhoshsat002@gmail.com]
+💼 **LinkedIn:** [linkedin.com/in/santhosh](#)  
+💻 **GitHub:** [github.com/santhoshsat](https://github.com/santhoshsat)  
+<img width="1902" height="871" alt="Screenshot 2025-08-21 133342" src="https://github.com/user-attachments/assets/72a7d420-7f2d-4c36-929a-6b7380349a27" />
+
+✨ Thanks for visiting my profile! Feel free to explore my repositories 🚀
