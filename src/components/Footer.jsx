@@ -25,7 +25,7 @@ const Footer = () => {
               Let&apos;s work together today!
             </h2>
             <p className='headline-3 '>Email : santhoshsat002@gmail.com</p>
-            <p className="headline-3">ContactNumber : 7358669483</p>
+            <p className="headline-3">Contact Number : 7358669483</p>
            
 
           </div>
