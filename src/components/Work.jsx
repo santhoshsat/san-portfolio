@@ -34,7 +34,7 @@ const works = [
   },
   {
     imgSrc: '/images/project-6.jpeg',
-    title: ' Face Login Recognition',
+    title: ' Face  Recognition Login System',
     tags: ['Flask', 'Development'],
     projectLink: 'https://github.com/santhoshsat/face_login'
   },
@@ -47,7 +47,7 @@ const Work = () => {
     className="section">
     <div className="container">
         <h2 className="headline-2 mb-8">
-            My portfolio highlights
+            My projects
         </h2>
         <div className="grid gap-x-4 gap-y-5 grid-cols-[repeat(auto-fill,_minmax(280px,_1fr))]">
             {works.map(({imgSrc,title,tags,projectLink},key)=>(
