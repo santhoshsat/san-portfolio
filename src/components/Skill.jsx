@@ -46,11 +46,7 @@ const skillItem = [
     label: 'TailwindCSS',
     desc: 'User Interface'
   },
-  {
-    imgSrc: '/images/tailwindcss.svg',
-    label: 'PHP',
-    desc: 'Backend'
-  },
+
 ];
 const Skill = () => {
   return (
